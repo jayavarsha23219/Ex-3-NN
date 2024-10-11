@@ -106,6 +106,7 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/118be350-d9ea-4a07-8d1c-ed9ca13c449b)
 ![image](https://github.com/user-attachments/assets/25121af8-1fc7-45a0-8be2-76e9f32ee27e)
 
 ## Result:
