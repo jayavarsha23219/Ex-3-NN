@@ -3,9 +3,9 @@
 <H3>EX. NO.3</H3>
 <H3>DATE: 11.10.2024</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
-# Aim:
+<H3>Aim:</H3>
 To implement a perceptron for classification using Python
-# Theory:
+<H3>Theory:</H3>
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows:
 
 XOR truth table
